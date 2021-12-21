@@ -4,11 +4,11 @@
 
 **Today's Progress**: Conducted research on different features of the MATLAB Robotics Toolbox. Learned path planning vocabulary, differential drive systems, pick and place algorithms, dynamics properties and inverse kinematics. 
 
-**Thoughts:** I learned a lot about the robotics toolbox in MATLAB, it seems like it has a lot of capabilities. Also looked into MATLAB C++ compiler, and one exists. Will link here once I recover the link. 
+**Thoughts:** I learned a lot about the robotics toolbox in MATLAB, it seems like it has a lot of capabilities. Also looked into MATLAB C++ compiler. It looks like MATLAB has a way of interfacing with existing C++ compilers. 
 
 **Links to work:** 
-1. [Research Log](https://github.com/jes-bro/FAMCalendar)
-2. [MATLAB C++ Compiler]()
+1. [Research Log](https://github.com/jes-bro/RoboToolbox/blob/main/research.md)
+2. [MATLAB C++ Compiler](https://www.mathworks.com/help/matlab/matlab_external/choose-c-or-c-compilers.html)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
